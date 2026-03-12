@@ -1,4 +1,4 @@
-## STATS220 
+# STATS220 
 
 ## **This is my repo for my  STATS220 class.**
 
