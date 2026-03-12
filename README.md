@@ -1,11 +1,11 @@
-## stats220
+## STATS220 
 
-**This is my repo for STATS 220.**
+## **This is my repo for my  STATS220 class.**
 
-A little about me:
+*A little about me:*
 
 - I am undertaking a degree in Communications
-- I am taking STATS 220 because it is a required core paper 
+- I am taking STATS 220 because it is a required core paper (as much as I cannot keep up).
 - I am interested in learning about technology and data being represented and communicated 
 
 A meme that captures how I currently feel about my university studies is 
