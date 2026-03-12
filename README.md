@@ -10,3 +10,5 @@
 
 A meme that captures how I currently feel about my university studies is 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms3aWh0NHkwa2ltMXgyMXJwd2piamt5aTNvOW1iZDV6N3Jrd3c2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx8vjqf2OyadHHZ6cL/giphy.gif)
+
+[this is the information about my current stats220 course](https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=STATS%20220)
